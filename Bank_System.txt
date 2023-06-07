@@ -1,6 +1,6 @@
 Bank Management System
 SIDDHARTH 1000
 SOHAM 5000
-ROHEENA 50000
+ROHEENA 1000
 Abhigyan 250620
 Krishnangshu 10000
