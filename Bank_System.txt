@@ -2,3 +2,4 @@ Bank Management System
 SIDDHARTH 1000
 SOHAM 5000
 ROHEENA 100000
+Baksi 20000
