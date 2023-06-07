@@ -1,4 +1,9 @@
 Bank Management System
 SIDDHARTH 1000
 SOHAM 5000
+<<<<<<< HEAD
 ROHEENA 50000
+=======
+ROHEENA 100000
+Baksi 20000
+>>>>>>> cce35bf86853315722119afe1aeebc9a5eaf5bfe
